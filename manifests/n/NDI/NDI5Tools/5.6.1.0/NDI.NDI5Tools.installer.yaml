@@ -1,0 +1,12 @@
+# Created using wingetcreate 1.6.1.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.6.0.schema.json
+
+PackageIdentifier: NDI.NDI5Tools
+PackageVersion: 5.6.1.0
+InstallerType: inno
+Installers:
+- InstallerUrl: https://downloads.ndi.tv/Tools/NDI%205%20Tools.exe
+  Architecture: x64
+  InstallerSha256: C00435C691CF65EF644D55505EEC7CD64DDCEB0471E74AF951AF4DC2B278863B
+ManifestType: installer
+ManifestVersion: 1.6.0
