@@ -1,0 +1,15 @@
+# Created using wingetcreate 1.6.1.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.6.0.schema.json
+
+PackageIdentifier: Behringer.X-AIR-Edit
+PackageVersion: 1.8.1
+InstallerType: zip
+NestedInstallerType: portable
+NestedInstallerFiles:
+- RelativeFilePath: X-AIR-Edit.exe
+Installers:
+- InstallerUrl: https://mediadl.musictribe.com/download/software/behringer/XAIR/X-AIR-Edit_PC_1.5.zip
+  Architecture: x64
+  InstallerSha256: 849B095AC1C6AF6804C22EB2722B5B8F7088442A6E7A4094BBC8989B8F70C870
+ManifestType: installer
+ManifestVersion: 1.6.0

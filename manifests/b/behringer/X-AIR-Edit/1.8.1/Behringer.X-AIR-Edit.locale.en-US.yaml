@@ -1,0 +1,12 @@
+# Created using wingetcreate 1.6.1.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.6.0.schema.json
+
+PackageIdentifier: Behringer.X-AIR-Edit
+PackageVersion: 1.8.1
+PackageLocale: en-US
+Publisher: Behringer
+PackageName: X-AIR-Edit
+License: Proprietary
+ShortDescription: Provides full control over all mixing, processing and effects functions of X AIR X18, XR18, XR16 and XR12 digital mixer
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0
