@@ -1,0 +1,12 @@
+# Created using wingetcreate 1.6.1.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.6.0.schema.json
+
+PackageIdentifier: Sennheiser.WSM
+PackageVersion: 4.7.1.118
+InstallerType: exe
+Installers:
+- InstallerUrl: https://www.sennheiser.com/globalassets/digizuite/46517-en-sennheiser_wsm_setup_4.7.1-118.exe
+  Architecture: x64
+  InstallerSha256: A746213B331F1274C765B7F78054BEFC22B9A9DEFEB511523D4056722FFA6EA9
+ManifestType: installer
+ManifestVersion: 1.6.0

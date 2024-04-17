@@ -1,0 +1,24 @@
+# Created using wingetcreate 1.6.1.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.6.0.schema.json
+
+PackageIdentifier: Sennheiser.WSM
+PackageVersion: 4.7.1.118
+PackageLocale: en-US
+Publisher: Sennheiser
+PublisherUrl: https://www.sennheiser.com/
+PublisherSupportUrl: https://www.sennheiser.com/support
+PrivacyUrl: https://www.sennheiser.com/privacy-policy
+PackageName: Wireless Systems Manager
+PackageUrl: https://www.sennheiser.com/en-us/catalog/products/software/wireless-systems-manager/wsm-111113
+License: Proprietary
+LicenseUrl: https://www.sennheiser.com/en-us/catalog/products/software/wireless-systems-manager/wsm-111113
+Copyright: Sennheiser
+ShortDescription: Sennheiser's Wireless Systems Manager is a professional software solution for remotely monitoring and controlling wireless systems.
+Description: Sennheiser's Wireless Systems Manager is a professional software solution for remotely monitoring and controlling wireless systems. Its intelligent features make the WSM the ideal choice for TV studios, live events, as well as musical productions. Wireless Systems Manager for Mac and Windows assists users in setting up and coordinating the frequencies of wireless microphones and personal monitors by having the most important parameters like charging levels handily displayed on a single screen.
+Moniker: WSM
+Tags:
+- WSM
+- Wireless
+- Microphone
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0
